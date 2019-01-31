@@ -1,4 +1,4 @@
-<?php header('Location:/index.html') ;  ?>
+
 <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Cinzel|Encode+Sans+Condensed|Permanent+Marker" rel="stylesheet">
 <style>
 h1{
